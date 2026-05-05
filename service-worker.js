@@ -1,5 +1,5 @@
 // Lift PWA service worker — offline-first cache
-const VERSION = 'lift-v1';
+const VERSION = 'lift-v2';
 const CORE = [
   './',
   './index.html',
